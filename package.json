@@ -1,0 +1,7 @@
+{
+  "name": "shopify-ga4-mp",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {}
+}
